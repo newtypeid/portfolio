@@ -1,9 +1,13 @@
 import React from 'react';
 import './App.css';
+import Header from './header.module/Header';
+import Body from './body.module/Body';
 
 function App() {
   return (
-    <div className="App"> 현욱이와 카페에서 ...
+    <div className="App">
+      <Header/>
+      <Body/>
     </div>
   );
 }

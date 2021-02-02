@@ -1,0 +1,14 @@
+.Body{
+  background-color: skyblue;
+  flex:2;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.text-container{
+  background-color: teal;
+  margin: 50px 30px;
+  padding: 30px;
+}
